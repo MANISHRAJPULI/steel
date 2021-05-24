@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    font-size: 20px;
+}
+.col-lg-3{
+    border: 1px solid white;
+    align-items: center;
+    justify-content: center;
+
+}
+.nav-link{
+    color: white;
+    font-size: 15px;
+    padding: 8px 16px;
+}
+.nav-link a{
+    padding: 8px 16px;
+}
+.active{
+    background-color: white;
+    color: black;
+}
+.btn {
+    border-radius: 0%;
+}
+.btn:hover{
+   background-color: #fff;
+   color: black;    
+}
+a:hover{
+    color: black !important;
+}
